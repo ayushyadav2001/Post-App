@@ -1,6 +1,85 @@
+HI, Connections 😊 ,
+
+I am glad to share with you that I completed the "Mega Web Dev Bootcamp with React Bootstrap5 Redux & REST API" course by Ranjan Pandey Sir on udemy.
+
+Here is what I have used in this project 🔻
+
+⏩ReactJs.
+
+⏩ Bootstrap 5.
+
+⏩ Used Remote REST API I to perform various operations with the help of GET, POST, PUT, and DELETE endpoints.
+
+⏩ Local Storage Set and Get Data from it and Clean data on logout.
+
+
+
+⭐️Learned How to Pass data from one component to another .
+
+⭐️Learn how to prevent Page Loading.
+
+⭐️Learned How to Manage States.
+
+⭐️Learned How to use Redux to pass States .
+
+⭐️ And Many more Things.
+
+
+
+Worked and Created Component👇
+
+
+
+👉Navigation Bar
+
+👉Footer
+
+👉Hero section with Carousel and Slider
+
+👉Featured Posts section
+
+👉Latest Posts section
+
+👉Call to Action section
+
+👉Our Portfolio section
+
+👉Contact us form
+
+👉About us page
+
+👉Footer section with different parts like Quick Links, Newsletter and Contact Address
+
+👉Create Posts
+
+👉All Posts
+
+👉Update Post
+
+👉Delete Post
+
+👉Login
+
+👉Signup
+
+👉Dynamic navigation
+
+👉Redux, Context API
+
+
+
+⏩ Github Link-https://github.com/ayushyadav2001/Post-App.git
+
+⏩ Demo Site Link- https://react-post-web-app.netlify.app/
+
+
+
+I would like to thank Udemy and especially Ranjan Pandey Sir and Obify Consulting for providing me with such an opportunity to me. #opportunity #reactjs #project #connections #mernstack #webdevelopment 
+
+
 # Getting Started with Create React App
 # Link of the Website
-->https://react-post-web-app.netlify.app/posts
+->
 
 #This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
