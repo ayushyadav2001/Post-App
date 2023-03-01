@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 # Link of the Website
 ->https://react-post-web-app.netlify.app/posts
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+#This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
